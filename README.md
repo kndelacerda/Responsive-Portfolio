@@ -1,2 +1,2 @@
-# Responsive-Portfolio
-Original portfolio from HW 1 made to include mobile viewing. 
+# Basic-Portfolio
+Homework 1 - Recommended - Portfolio
